@@ -1,5 +1,5 @@
 'use strict'
-// לא מופיע הדובדבן
+
 const WALL = '#'
 const FOOD = '.'
 const EMPTY = ' '
